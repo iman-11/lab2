@@ -1,4 +1,4 @@
-# Rapport du Lab : Visio2n par Ordinateur avec CNN, Faster R-CNN et Vision Transformer
+# Rapport du Lab2 : Visio2n par Ordinateur avec CNN, Faster R-CNN et Vision Transformer
 
 Ce projet explore différentes architectures de modèles de vision par ordinateur pour effectuer des tâches de classification d'images sur le jeu de données MNIST.
 
